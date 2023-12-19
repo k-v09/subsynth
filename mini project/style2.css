@@ -1,0 +1,39 @@
+body {
+    background-color: rgb(249, 242, 151);
+    text-align: center;
+}
+nav {
+    text-align: right;
+}
+html {
+    font-family: fantasy;
+}
+footer {
+    text-align: center;
+    background-color: aquamarine;
+}
+a {
+    color: rgb(67, 1, 130);
+    text-shadow: 1px 1px purple;
+    margin: 0.5cm;
+}
+h5 {
+    margin: 0cm;
+}
+
+
+
+.title {
+    text-align: center;
+    color: rgb(67, 1, 130);
+}
+
+
+
+#marquer {
+    color: black;
+}
+#useless {
+    text-align: center;
+    font-size: 120px;
+}
